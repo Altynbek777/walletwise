@@ -1,0 +1,7 @@
+.content-section {
+        display: flex;
+        justify-content:space-around;
+}
+.arial-text {
+        font-family: Arial, sans-serif;
+}
